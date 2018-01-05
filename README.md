@@ -1,4 +1,4 @@
 # hello-world
-Just for training myself
+Just for training.
 
 First time to learn it.
